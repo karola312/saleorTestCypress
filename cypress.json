@@ -1,0 +1,4 @@
+{
+    "baseUrl": "https://demo.saleor.io/",
+    "experimentalNetworkStubbing": true
+}

@@ -1,0 +1,28 @@
+{
+  "name": "saleorTestCypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karola312/saleorTestCypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karola312/saleorTestCypress/issues"
+  },
+  "homepage": "https://github.com/karola312/saleorTestCypress#readme",
+  "devDependencies": {
+    "cypress": "^5.6.0"
+  },
+  "dependencies": {
+    "cypress-graphql-mock": "^0.5.0-alpha.4"
+  }
+}
